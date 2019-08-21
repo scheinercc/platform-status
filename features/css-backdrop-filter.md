@@ -2,7 +2,7 @@
 title: CSS backdrop-filter (subset of Filter FX L2)
 category: css, layout
 bugzilla: 1178765
-firefox_status: under-consideration
+firefox_status: in-development
 mdn_url: https://developer.mozilla.org/docs/Web/CSS/backdrop-filter
 spec_url: https://dev.w3.org/fxtf/filters-2/#BackdropFilterPropert
 caniuse_ref: css-backdrop-filter
